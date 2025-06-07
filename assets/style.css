@@ -1,0 +1,12 @@
+/*Main Body, used for most sites*/
+body {
+    font-family: sans-serif;
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+/*Nav Bar*/
+nav a {
+    margin-right: 10px;
+    color: blue;
+    text-decoration: none;
+}
