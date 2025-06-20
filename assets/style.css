@@ -10,10 +10,10 @@ nav a {
     color: blue;
     text-decoration: none;
 }
-.left-section h3 {
+.left h3 {
     text-align: left
 }
-.dark-theme {
+.darkmode {
   background-color: #222;
   color: #eee;
 }
