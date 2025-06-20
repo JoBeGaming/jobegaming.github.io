@@ -1,9 +1,9 @@
 /*Main Body, used for most sites*/
-body {
+/*body {
     font-family: sans-serif;
     background-color: #f0f0f0;
     padding: 20px;
-}
+}*/
 /*Nav Bar*/
 nav a {
     margin-right: 10px;
@@ -12,4 +12,8 @@ nav a {
 }
 .left-section h3 {
     text-align: left
+}
+.dark-theme {
+  background-color: #222;
+  color: #eee;
 }
