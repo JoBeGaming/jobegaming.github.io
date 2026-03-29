@@ -13,7 +13,7 @@ nav a {
 .left h3 {
     text-align: left
 }
-.darkmode {
-  background-color: #222;
-  color: #eee;
+.lightmode {
+    background-color: #f0f0f0;
+    color: #000000;
 }
